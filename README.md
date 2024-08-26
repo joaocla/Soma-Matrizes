@@ -30,7 +30,7 @@ O resultado da soma será:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/MatrixSum.git
+   git clone https://github.com/joaocla/Soma-Matrizes.git
 
 2. Compile o código:
    ```bash
